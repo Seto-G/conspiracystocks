@@ -1,1 +1,3 @@
+markdown: redcarpet 
+baseurl:/conspiracystocks/
 theme: jekyll-theme-cayman
