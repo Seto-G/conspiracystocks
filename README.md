@@ -1,2 +1,2 @@
-# conspiracystocks
+# conspiracy Stocks
 conspiracystocks
